@@ -18,6 +18,7 @@ Volcar las siguentes fuentes de datos a la hoja de cálculo: [Fuentes de datos a
 * [ ] IDEs
 * [ ] DBPedia?
 * [ ] Kaggle
+* [ ] [AEMET](https://opendata.aemet.es/centrodedescargas/inicio)?
 * [ ] [Awesome Public Dataset (repo)](https://github.com/awesomedata/awesome-public-datasets#awesome-public-datasets)
 
 # Contribuciones
