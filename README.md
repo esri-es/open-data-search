@@ -19,3 +19,7 @@ Volcar las siguentes fuentes de datos a la hoja de cálculo: [Fuentes de datos a
 * [ ] DBPedia?
 * [ ] Kaggle
 * [ ] [Awesome Public Dataset (repo)](https://github.com/awesomedata/awesome-public-datasets#awesome-public-datasets)
+
+# Contribuciones
+
+Puedes colaborar como prefieras, por ejemplo: haciendo un PR añadiendo una nueva fuente de datos a la lista, o si quieres abre directamente un "issue" y ponte en contacto con nosotros.
