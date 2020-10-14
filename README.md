@@ -1,6 +1,8 @@
 # Open Data Search
 
-....
+Es un proyecto colaborativo con el objetivo de crear el mayor [meta]buscador de datos abiertos.
+
+La primera aproximación la estamos implementando usando [GCS](https://programmablesearchengine.google.com/about/) y puedes acceder a través del siguiente enlace: https://cse.google.com/cse?cx=071ea5e1c8d03f71c
 
 # Tareas
 
