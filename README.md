@@ -30,12 +30,13 @@ Volcar las siguentes fuentes de datos a la hoja de cálculo: [Fuentes de datos a
 
 # Contribuciones
 
-Puedes colaborar como prefieras, 
+Puedes colaborar como prefieras:
 
-* Compartiendo ideas de cómo mejorar la experiencia de búsqueda
-* Compartiendo ideas de cómo organizar los datos
+* Colaborando en la identificación de [problemas y sugerencias sobre la experiencia de búsqueda con Google CSE](https://github.com/esri-es/open-data-search/issues/3)
+* Compartiendo [ideas sobre el proceso de etiquetado y filtrado de los datos](https://github.com/esri-es/open-data-search/issues/1)
+* Compartiendo [ideas sobre cómo unificar fuentes](https://github.com/esri-es/open-data-search/issues/2)
 * Añadiendo nuevas fuentes de datos
 * Revisando las URLs existentes y/o añadiendo etiquetas
 * ...
 
-Siéntete libre de hacer un PR, editar la hoja de cálculo o si quieres abre directamente un "issue" para comentar cualquier cosa.
+Siéntete libre de hacer un PR, editar la hoja de cálculo o crear un "issue" para comentar cualquier otra cosa.
