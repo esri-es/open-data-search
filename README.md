@@ -26,10 +26,10 @@ Unificar en un único listado las diferentes organizaciones que publican datos [
   * [ ] [Ámbito Estatal](https://www.idee.es/web/guest/estatal)
   * [ ] [Ámbito Autonómico](https://www.idee.es/web/guest/autonomico)
   * [ ] [Ámbito Local](https://www.idee.es/web/guest/local)
-* [ ] DBPedia?
-* [ ] Kaggle
+* [ ] [Kaggle](https://www.kaggle.com/datasets)
 * [ ] [AEMET](https://opendata.aemet.es/centrodedescargas/inicio)?
 * [ ] [APIs](https://docs.google.com/spreadsheets/d/1TFltk8mMtAO51KdjO3uUwS3slr6IpiFyi1OLEqa63LA/edit#gid=635092322)?
+  * [ ] [DBPedia](http://dbpedia.org/)?
 * [ ] [Awesome Public Dataset (repo)](https://github.com/awesomedata/awesome-public-datasets#awesome-public-datasets)
 * [ ] [Awesome GIS data](https://github.com/sshuair/awesome-gis#data)
 
