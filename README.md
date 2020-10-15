@@ -22,7 +22,10 @@ Volcar las siguentes fuentes de datos a la hoja de cálculo: [Fuentes de datos a
 * [ ] [Open Data Inception](https://data.opendatasoft.com/explore/dataset/open-data-sources%40public/table/?refine.country=Spain&sort=code_en&basemap=jawg.sunny&location=7,40.62646,-1.53809)
   * [X] Spain
   * [ ] ...
-* [ ] IDEs
+* [ ] Infraestructuras de Datos Espaciales de España (IDEEs)
+  * [ ] [Ámbito Estatal](https://www.idee.es/web/guest/estatal)
+  * [ ] [Ámbito Autonómico](https://www.idee.es/web/guest/autonomico)
+  * [ ] [Ámbito Local](https://www.idee.es/web/guest/local)
 * [ ] DBPedia?
 * [ ] Kaggle
 * [ ] [AEMET](https://opendata.aemet.es/centrodedescargas/inicio)?
