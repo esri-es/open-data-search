@@ -6,6 +6,10 @@ La primera aproximación la estamos implementando usando [GCS](https://programma
 
 > **Ejemplos de fuentes**: Portales Open Data / de Transparencia (gobierno/ministerios, comunidades, ciudades, universidades), Institutos de Estadística (nacional y comunitarios), Catastro, DGT, Infraestructuras de Datos Espaciales (IDEs), Confederaciones Hidrográficas (Segura, Tajo, Ebro, ...), Instituto Geográfico Nacional (IGN), Institutos Cartográficos, Instituto Geológico y Minero de España (IGME), AENA, AEMET, CSIC, Wikiloc, Geonames, ...
 
+# Motivación
+
+Por qué de este proyecto
+
 # Tareas
 
 Volcar las siguentes fuentes de datos a la hoja de cálculo: [Fuentes de datos abiertos](https://docs.google.com/spreadsheets/d/1tlt-oAb2RNzy51tn9oTzxZj8vtTbLKtTxYp4Gw4k8eI/edit?usp=sharing)
@@ -26,4 +30,12 @@ Volcar las siguentes fuentes de datos a la hoja de cálculo: [Fuentes de datos a
 
 # Contribuciones
 
-Puedes colaborar como prefieras, por ejemplo: haciendo un PR añadiendo una nueva fuente de datos a la lista, o si quieres abre directamente un "issue" y ponte en contacto con nosotros.
+Puedes colaborar como prefieras, 
+
+* Compartiendo ideas de cómo mejorar la experiencia de búsqueda
+* Compartiendo ideas de cómo organizar los datos
+* Añadiendo nuevas fuentes de datos
+* Revisando las URLs existentes y/o añadiendo etiquetas
+* ...
+
+Siéntete libre de hacer un PR, editar la hoja de cálculo o si quieres abre directamente un "issue" para comentar cualquier cosa.
