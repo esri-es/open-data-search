@@ -4,6 +4,8 @@ Es un proyecto colaborativo con el objetivo de crear el mayor [meta]buscador de 
 
 La primera aproximación la estamos implementando usando [GCS](https://programmablesearchengine.google.com/about/) y puedes acceder a través del siguiente enlace: https://cse.google.com/cse?cx=071ea5e1c8d03f71c
 
+> **Ejemplos de fuentes**: Portales Open Data / de Transparencia (gobierno/ministerios, comunidades, ciudades, universidades), Institutos de Estadística (nacional y comunitarios), Catastro, DGT, Infraestructuras de Datos Espaciales (IDEs), Cuencas Hidrográficas (Segura, Tajo, Ebro, ...), Instituto Geográfico Nacional (IGN), Institutos Cartográficos, Instituto Geológico y Minero de España (IGME), AENA, AEMET, CSIC, Wikiloc, Geonames, ...
+
 # Tareas
 
 Volcar las siguentes fuentes de datos a la hoja de cálculo: [Fuentes de datos abiertos](https://docs.google.com/spreadsheets/d/1tlt-oAb2RNzy51tn9oTzxZj8vtTbLKtTxYp4Gw4k8eI/edit?usp=sharing)
