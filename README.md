@@ -12,7 +12,7 @@ Por qué de este proyecto
 
 # Tareas
 
-Volcar las siguentes fuentes de datos a la hoja de cálculo: [Fuentes de datos abiertos](https://docs.google.com/spreadsheets/d/1tlt-oAb2RNzy51tn9oTzxZj8vtTbLKtTxYp4Gw4k8eI/edit?usp=sharing)
+Unificar en un único listado las diferentes organizaciones que publican datos [abiertos]: [Fuentes de datos abiertos](https://docs.google.com/spreadsheets/d/1tlt-oAb2RNzy51tn9oTzxZj8vtTbLKtTxYp4Gw4k8eI/edit?usp=sharing)
 
 * [ ] [700 Fuentes de datos](https://docs.google.com/spreadsheets/d/160LcfM37rqds6RHlX3nMDMaDokL1d6jQfjyB3VgB1x4/edit#gid=1575902972) (by Esri España)
   * [X] Pestaña "Nacional"
@@ -40,7 +40,8 @@ Puedes colaborar como prefieras:
 * Colaborando en la identificación de [problemas y sugerencias sobre la experiencia de búsqueda con Google CSE](https://github.com/esri-es/open-data-search/issues/3)
 * Compartiendo [ideas sobre el proceso de etiquetado y filtrado de los datos](https://github.com/esri-es/open-data-search/issues/1)
 * Compartiendo [ideas sobre cómo unificar fuentes](https://github.com/esri-es/open-data-search/issues/2)
-* Añadiendo nuevas fuentes de datos
+* Volcando/unificando fuentes de datos en la hoja [fuentes de datos abiertos](https://docs.google.com/spreadsheets/d/1tlt-oAb2RNzy51tn9oTzxZj8vtTbLKtTxYp4Gw4k8eI/edit?usp=sharing)
+* Añadiendo nuevas recopilaciones/listados/ con más fuentes de datos
 * Revisando las URLs existentes y/o añadiendo etiquetas
 * ...
 
