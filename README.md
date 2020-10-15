@@ -29,7 +29,9 @@ Volcar las siguentes fuentes de datos a la hoja de cálculo: [Fuentes de datos a
 * [ ] DBPedia?
 * [ ] Kaggle
 * [ ] [AEMET](https://opendata.aemet.es/centrodedescargas/inicio)?
+* [ ] [APIs](https://docs.google.com/spreadsheets/d/1TFltk8mMtAO51KdjO3uUwS3slr6IpiFyi1OLEqa63LA/edit#gid=635092322)?
 * [ ] [Awesome Public Dataset (repo)](https://github.com/awesomedata/awesome-public-datasets#awesome-public-datasets)
+* [ ] [Awesome GIS data](https://github.com/sshuair/awesome-gis#data)
 
 # Contribuciones
 
