@@ -16,7 +16,7 @@ Volcar las siguentes fuentes de datos a la hoja de cálculo: [Fuentes de datos a
 * [ ] [Iniciativas que forman datos.gob.es](https://datos.gob.es/es/iniciativas/csv) ([Mapa](https://datos.gob.es/es/iniciativas))
 * [ ] [Code for Spain - Datos (Repo)](https://github.com/codeforspain/datos/wiki)
 * [ ] [Open Data Inception](https://data.opendatasoft.com/explore/dataset/open-data-sources%40public/table/?refine.country=Spain&sort=code_en&basemap=jawg.sunny&location=7,40.62646,-1.53809)
-  * [ ] Spain
+  * [X] Spain
   * [ ] ...
 * [ ] IDEs
 * [ ] DBPedia?
