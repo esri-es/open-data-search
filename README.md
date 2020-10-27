@@ -32,6 +32,7 @@ Unificar en un único listado las diferentes organizaciones que publican datos [
   * [ ] [DBPedia](http://dbpedia.org/)?
 * [ ] [Awesome Public Dataset (repo)](https://github.com/awesomedata/awesome-public-datasets#awesome-public-datasets)
 * [ ] [Awesome GIS data](https://github.com/sshuair/awesome-gis#data)
+* [ ] [@smota compilation](https://github.com/santiagomota/Open_Data)
 
 # Contribuciones
 
