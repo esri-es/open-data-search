@@ -8,7 +8,7 @@ La primera aproximación la estamos implementando usando [GCS](https://programma
 
 # Motivación
 
-Por qué de este proyecto
+Por qué de este proyecto: pendiente
 
 # Tareas
 
